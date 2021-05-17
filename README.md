@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raviteja
 - 👀 I’m interested in becoming a web developer frontEnd/backEnd/fullstack
 - 🌱 I’m currently learning React/redux
-- 💞️ I’m looking to collaborate on any open source project which used MERN stack.
+- 💞️ I’m looking to collaborate on any open source project which uses MERN stack.
 - 📫 How to reach me 
 kakiravi1998@gmail.com
 https://www.linkedin.com/in/raviteja-kaki-a8a872187/
